@@ -1,0 +1,5 @@
+/mode_modules
+/vendor
+/.idea
+.idea/
+.env
